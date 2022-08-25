@@ -1,2 +1,2 @@
 # Next
-Projeto final do módulo de Front-End II, do programa de formação starter UX/UI Designer, da Growdev.
+Projeto final do módulo de Front-End II, do Programa de Formação Starter UX/UI Designer, da Growdev.
